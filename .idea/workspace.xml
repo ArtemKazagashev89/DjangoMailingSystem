@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b3532c3e-9833-4f2e-8808-b818d8a15ab4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env_sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.flake8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/DjangoMailingSystem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailsender/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailsender/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailsender/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailsender/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailsender/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailsender/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailsender/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailsender/templates/mailsender/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailsender/templates/mailsender/client_confirm_delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailsender/templates/mailsender/client_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailsender/templates/mailsender/client_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailsender/templates/mailsender/client_update.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailsender/templates/mailsender/clients_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailsender/templates/mailsender/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailsender/templates/mailsender/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailsender/templates/mailsender/mailing_attempts_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailsender/templates/mailsender/mailing_confirm_delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailsender/templates/mailsender/mailing_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailsender/templates/mailsender/mailing_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailsender/templates/mailsender/mailings_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailsender/templates/mailsender/message_confirm_delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailsender/templates/mailsender/message_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailsender/templates/mailsender/message_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailsender/templates/mailsender/messages_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailsender/templates/mailsender/send_mailing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailsender/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailsender/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailsender/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/management/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/management/commands/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/management/commands/send_mailing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poetry.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ArtemKazagashev89&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ArtemKazagashev89/DjangoMailingSystem.git&quot;,
+    &quot;accountId&quot;: &quot;ba859a01-2e87-4390-b48b-fffe1b0b9a6e&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2qc4gOdGbPeQbGZHQkQ4HWFfo9M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tema1/PycharmProjects/DjangoMailingSystem/static/js&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tema1\PycharmProjects\DjangoMailingSystem\static\js" />
+      <recent name="C:\Users\tema1\PycharmProjects\DjangoMailingSystem\static\css" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3532c3e-9833-4f2e-8808-b818d8a15ab4" name="Changes" comment="" />
+      <created>1734948639703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734948639703</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
